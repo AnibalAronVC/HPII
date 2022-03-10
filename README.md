@@ -1,2 +1,2 @@
 # HPII
-Herramientas de Programacion II (Actulizando 2022)
+Herramientas de Programacion II (Actualizando 2022)
